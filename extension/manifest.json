@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "chillnerds",
+  "version": "1.0",
+  "action": {
+    "default_icon": "icons/chillnerds.png",
+    "default_popup": "popup/index.html",
+    "default_title": "chillnerds"
+  },
+  "icons": {
+    "128": "icons/chillnerds.png"
+  }
+}

@@ -1,0 +1,8 @@
+.app {
+  display: flex;
+  background-color: var(--color-surface);
+  flex-direction: column;
+  width: 22rem;
+  height: 32rem;
+  padding: 1rem;
+}

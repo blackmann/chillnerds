@@ -1,0 +1,9 @@
+.topic {
+  border-radius: var(--border-radius);
+  display: block;
+  padding: 0.5rem;
+}
+
+.topic:hover {
+  background-color: var(--color-surface-2);
+}

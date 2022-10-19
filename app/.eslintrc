@@ -1,0 +1,9 @@
+{
+  "extends": ["react-app", "react-app/jest"],
+  "plugins": ["prettier"],
+  "rules": {
+    "react/jsx-sort-props": "warn",
+    "sort-imports": "warn",
+    "prettier/prettier": "warn"
+  }
+}

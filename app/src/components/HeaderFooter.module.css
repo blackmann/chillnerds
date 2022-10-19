@@ -1,0 +1,8 @@
+.footer {
+  margin-top: 1rem;
+  color: var(--color-disabled);
+}
+
+.header {
+  color: var(--color-disabled);
+}
